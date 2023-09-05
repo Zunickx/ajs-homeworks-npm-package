@@ -1,0 +1,22 @@
+{
+  "name": "defender-game",
+  "version": "1.0.0",
+  "description": "\"Browser based game\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "оставьте пустым"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Zunickx/ajs-homeworks-npm-package.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "ZunickX",
+  "license": " ISC",
+  "bugs": {
+    "url": "https://github.com/Zunickx/ajs-homeworks-npm-package/issues"
+  },
+  "homepage": "https://github.com/Zunickx/ajs-homeworks-npm-package#readme"
+}
